@@ -1,0 +1,21 @@
+{
+  "name": "The Soft Syndicate",
+  "short_name": "Soft Syndicate",
+  "description": "A community space for Black women creatives and entrepreneurs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefcf9",
+  "theme_color": "#eeced6",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/soft_syndicate_icon.ico",
+      "type": "image/x-icon",
+      "sizes": "48x48"
+    }
+  ]
+}
