@@ -1,10 +1,11 @@
-
 import Layout from '../components/Layout';
 import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 
 export default function Home() {
-  return (
+  return <h1>Hello from The Soft Syndicate</h1>;
+}
+
     <Layout>
       <Card>
         <CardContent className="p-4 space-y-4">
